@@ -30,6 +30,7 @@ header {
 nav ul {
 	list-style-type: none;
 	text-align: center;
+	font-weight: bold;
 }
 
 nav ul li {
@@ -39,7 +40,7 @@ nav ul li {
 }
 
 nav ul li:hover {
-	border-bottom: 2px solid #FF6F61;
+	color: #FF6F61;
 }
 
 main {
