@@ -9,8 +9,13 @@ header, nav, main, footer {
 	margin: auto;
 }
 
+header, footer {
+	text-align: center;
+}
+
 nav ul {
 	list-style-type: none;
+	text-align: center;
 }
 
 nav ul li {
