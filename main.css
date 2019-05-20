@@ -4,6 +4,10 @@
 	padding: 0;
 }
 
+h1, h2, h3, p {
+	padding: 1% 0;
+}
+
 header, nav, main, footer {
 	width: 80%;
 	margin: auto;
