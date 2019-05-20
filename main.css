@@ -41,3 +41,8 @@ nav ul li {
 nav ul li:hover {
 	border-bottom: 2px solid #FF6F61;
 }
+
+main {
+	border-top: 2px solid #FF6F61;
+	padding: 2%;
+}
